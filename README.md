@@ -17,9 +17,15 @@ Qui potete trovare il link al notebook su NotebookLM di Google: [Fondo pensione 
 Queste sono le risorse che sono state prodotte con NotebookLM di Google. Non sono state date particolari personalizzazioni, ma sono state sfruttate direttamente le funzionalità della piattaforma nell'utilizzare le [fonti](#fonti) per produrre materiale didattico per studiare.
 I documenti prodotti sono stati realizzati combinando tra loro più fonti per creare un quadro completo e dettagliato.
 
+### Audio
+
+| **Titolo** | **Audio** |
+|-----------------|-----------------|
+| The Bull - Guida pratica a TFR e pensione integrativa | [the-bull-guida-pratica-tfr-pensione-integrativa.mp3](audio/the-bull-guida-pratica-tfr-pensione-integrativa.mp3) |
+
 ### Infografiche
 
-| **Descrizione** | **Infografica** |
+| **Titolo** | **Infografica** |
 |-----------------|-----------------|
 | Guida previdenza complementare 2025-2026 | [![Guida previdenza complementare 2025-2026](infografiche/guida-previdenza-complementare-2025-2026.png)](infografiche/guida-previdenza-complementare-2025-2026.png) |
 | Tipi di fondi pensione | [![Tipi di fondi pensione](infografiche/confronto-fondi-pensione.png)](infografiche/confronto-fondi-pensione.png) |
