@@ -1,6 +1,4 @@
-<center>
-<h1>Fondo Pensione e TFR</h1>
-</center>
+<h1>TFR e Fondo Pensione</h1>
 
 ### Disclaimer
 
@@ -12,7 +10,7 @@
 
 ## Notebook
 
-Qui potete trovare il link al notebook di NotebookLM di Google: [Fondo pensione e TFR](https://notebooklm.google.com/notebook/b5e67a0a-ed18-4bc7-b458-cdf218a2c44a)
+Qui potete trovare il link al notebook su NotebookLM di Google: [Fondo pensione e TFR](https://notebooklm.google.com/notebook/b5e67a0a-ed18-4bc7-b458-cdf218a2c44a)
 
 ## Risorse
 
@@ -21,36 +19,33 @@ I documenti prodotti sono stati realizzati combinando tra loro più fonti per cr
 
 ### Infografiche
 
-[![Guida previdenza complementare 2025-2026](infografiche/guida-previdenza-complementare-2025-2026.png)](infografiche/guida-previdenza-complementare-2025-2026.png)
-
-```markdown
-Crea una infografica per comparare tra di loro i vari tipi di fondi pensione a disposizione dei lavoratori: fondi pensione negoziali, fondi pensione aperti, pip. Per ognuno di essi riporta: breve descrizione, vantaggi, svantaggi
-```
-
-[![Tipi di fondi pensione](infografiche/confronto-fondi-pensione.png)](infografiche/confronto-fondi-pensione.png)
+| **Descrizione** | **Infografica** |
+|-----------------|-----------------|
+| Guida previdenza complementare 2025-2026 | [![Guida previdenza complementare 2025-2026](infografiche/guida-previdenza-complementare-2025-2026.png)](infografiche/guida-previdenza-complementare-2025-2026.png) |
+| Tipi di fondi pensione | [![Tipi di fondi pensione](infografiche/confronto-fondi-pensione.png)](infografiche/confronto-fondi-pensione.png) |
 
 ### Documenti
 
-- [Analisi di Impatto Normativo La Riforma della Previdenza Complementare nella Legge di Bilancio 2026](documenti/impatto-normativo-riforma-leggebilancio-2026.pdf)
-- [Addio Pensione d’Oro: 7 Verità (e Opportunità) sulla Previdenza che la tua Banca non ti dice](documenti/verita-opportunita-previdenza-banca-non-dice.pdf)
+- 📄 [Analisi di Impatto Normativo La Riforma della Previdenza Complementare nella Legge di Bilancio 2026](documenti/impatto-normativo-riforma-leggebilancio-2026.pdf)
+- 📄 [Addio Pensione d’Oro: 7 Verità (e Opportunità) sulla Previdenza che la tua Banca non ti dice](documenti/verita-opportunita-previdenza-banca-non-dice.pdf)
 
 ## Fonti
 
-- [109. La Guida definitiva alla Previdenza Complementare con Ciao Elsa](https://www.youtube.com/watch?v=o2MyJ5Hx2Nk)
-- [267. Come salvare la tua pensione: tutto quello che devi sapere con Ciao Elsa](https://www.youtube.com/watch?v=LTzibm5jsdk)
-- [48. La Previdenza Integrativa per Dipendenti e Partite IVA](https://www.youtube.com/watch?v=zmSWuOEBNuQ)
-- [Educati e Finanziati Avanzati 04: il fondo pensione | corso base di finanza](https://www.youtube.com/watch?v=JYYEnGDMd18)
-- [Fondo pensione: come costruire oggi il tuo futuro | The Bull](https://www.youtube.com/watch?v=VO0XCriYU7o)
-- [La Guida Definitiva alla Previdenza Integrativa 💰 TFR, Fondi Pensione, Nuove Detrazioni...](https://www.youtube.com/watch?v=I1dGHISpyg8)
-- [La Guida Definitiva sui Fondi Pensione 💰 (Come fare la scelta giusta?)](https://www.youtube.com/watch?v=AvKN1__yvow)
-- [Legge di Bilancio 2026: novità su pensioni e previdenza complementare!](https://www.youtube.com/watch?v=3qIz2Vq3sbA)
-- [Guida COMPLETA ai Fondi Pensione](https://www.youtube.com/watch?v=SNb6svLKtr8)
+- 📺 [109. La Guida definitiva alla Previdenza Complementare con Ciao Elsa](https://www.youtube.com/watch?v=o2MyJ5Hx2Nk)
+- 📺 [267. Come salvare la tua pensione: tutto quello che devi sapere con Ciao Elsa](https://www.youtube.com/watch?v=LTzibm5jsdk)
+- 📺 [48. La Previdenza Integrativa per Dipendenti e Partite IVA](https://www.youtube.com/watch?v=zmSWuOEBNuQ)
+- 📺 [Educati e Finanziati Avanzati 04: il fondo pensione | corso base di finanza](https://www.youtube.com/watch?v=JYYEnGDMd18)
+- 📺 [Fondo pensione: come costruire oggi il tuo futuro | The Bull](https://www.youtube.com/watch?v=VO0XCriYU7o)
+- 📺 [La Guida Definitiva alla Previdenza Integrativa 💰 TFR, Fondi Pensione, Nuove Detrazioni...](https://www.youtube.com/watch?v=I1dGHISpyg8)
+- 📺 [La Guida Definitiva sui Fondi Pensione 💰 (Come fare la scelta giusta?)](https://www.youtube.com/watch?v=AvKN1__yvow)
+- 📺 [Legge di Bilancio 2026: novità su pensioni e previdenza complementare!](https://www.youtube.com/watch?v=3qIz2Vq3sbA)
+- 📺 [Guida COMPLETA ai Fondi Pensione](https://www.youtube.com/watch?v=SNb6svLKtr8)
 
 ## Profili Social
 
-- [Ciao Elsa](https://www.ciaoelsa.com/)
-- [The Bull](https://www.thebull.it/)
-- [Omney](https://www.omney.io/)
-- [Riccardo Zanetti](http://www.youtube.com/@RiccardoZanetti)
-- [Pietro Michelangeli](https://www.youtube.com/@PietroMichelangeli)
-- [Paolo Coletti](https://www.youtube.com/@PaoloColetti)
+- 🌐 [Ciao Elsa](https://www.ciaoelsa.com/)
+- 🌐 [The Bull](https://www.thebull.it/)
+- 🌐 [Omney](https://www.omney.io/)
+- 🌐 [Riccardo Zanetti](http://www.youtube.com/@RiccardoZanetti)
+- 🌐 [Pietro Michelangeli](https://www.youtube.com/@PietroMichelangeli)
+- 🌐 [Paolo Coletti](https://www.youtube.com/@PaoloColetti)
