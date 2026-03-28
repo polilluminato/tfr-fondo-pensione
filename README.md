@@ -10,6 +10,10 @@
 > - Non si assume alcuna responsabilità per l'uso delle informazioni contenute nel repository. 
 > - **La proprietà intellettuale dei contenuti appartiene ai rispettivi autori.**
 
+## Notebook
+
+Qui potete trovare il link al notebook di NotebookLM di Google: [Fondo pensione e TFR](https://notebooklm.google.com/notebook/b5e67a0a-ed18-4bc7-b458-cdf218a2c44a)
+
 ## Risorse
 
 Queste sono le risorse che sono state prodotte con NotebookLM di Google. Non sono state date particolari personalizzazioni, ma sono state sfruttate direttamente le funzionalità della piattaforma nell'utilizzare le [fonti](#fonti) per produrre materiale didattico per studiare.
