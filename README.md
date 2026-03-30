@@ -2,7 +2,7 @@
 
 ## ⚠️ **Disclaimer**
 
-> **📚 ATTENZIONE:** Questo repository contiene informazioni e risorse relative al fondo pensione e alla previdenza complementare.
+> **📚 ATTENZIONE:** Questo repository contiene informazioni e risorse relative al TFR, fondo pensione e alla previdenza complementare.
 > 
 > - 🤖 I documenti, gli audio e le infografiche sono state prodotte con [NotebookLM di Google](https://notebooklm.google/).
 > - 🎓 Il repository è stato creato per scopi di studio e **non costituisce consulenza finanziaria**.
