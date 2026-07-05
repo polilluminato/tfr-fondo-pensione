@@ -40,6 +40,8 @@ I documenti prodotti sono stati realizzati combinando tra loro più fonti per cr
 
 ## Fonti
 
+### YouTube
+
 - 📺 [109. La Guida definitiva alla Previdenza Complementare con Ciao Elsa](https://www.youtube.com/watch?v=o2MyJ5Hx2Nk)
 - 📺 [267. Come salvare la tua pensione: tutto quello che devi sapere con Ciao Elsa](https://www.youtube.com/watch?v=LTzibm5jsdk)
 - 📺 [48. La Previdenza Integrativa per Dipendenti e Partite IVA](https://www.youtube.com/watch?v=zmSWuOEBNuQ)
@@ -50,6 +52,12 @@ I documenti prodotti sono stati realizzati combinando tra loro più fonti per cr
 - 📺 [Legge di Bilancio 2026: novità su pensioni e previdenza complementare!](https://www.youtube.com/watch?v=3qIz2Vq3sbA)
 - 📺 [Guida COMPLETA ai Fondi Pensione](https://www.youtube.com/watch?v=SNb6svLKtr8)
 - 📺 [Ciao Elsa e Prof. Coletti](https://www.youtube.com/watch?v=bpcj71h4Gd0)
+- 📺 [La data di prima adesione del fondo pensione (per pagare meno tasse)](https://www.youtube.com/watch?v=HnP_oXt02eo)
+- 📺 [Che contributo versa il datore nel fondo pensione? Ecco come ottenerlo e quanti soldi ti spettano!](https://www.youtube.com/watch?v=v9ULagV540M)
+
+### Blog Post
+
+- [Adesione automatica ai fondi pensione 2026: cosa cambia davvero dall'1 luglio per lavoratori e aziende](https://www.ciaoelsa.com/blog/adesione-automatica-fondi-pensione-2026)
 
 ## Profili Social
 
